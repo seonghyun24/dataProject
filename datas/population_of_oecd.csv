@@ -1,0 +1,571 @@
+STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,ACTION,REF_AREA,Reference area,MEASURE,Measure,UNIT_MEASURE,Unit of measure,SEX,Sex,AGE,Age,TIME_HORIZ,Time horizon,TIME_PERIOD,Time period,OBS_VALUE,Observation value,OBS_STATUS,Observation status,UNIT_MULT,Unit multiplier,DECIMALS,Decimals
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,3198231,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,3162916,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,3097282,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,3028115,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,2987773,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,2957689,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,2932367,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,2904910,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,2868231,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,2828403,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,2801543,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,2794137,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,2794885,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,2808380,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LTU,Lithuania,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,2833000,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,110405454,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,112095388,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,113748671,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,115367452,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,116935670,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,118453929,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,119936411,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,121347800,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,122715165,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,124041731,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,125327797,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,126577691,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,127792286,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,128972439,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,MEX,Mexico,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,130118356,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,128083960,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,128031514,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,128057352,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,127834233,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,127592657,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,127413888,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,127237150,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,127094745,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,127041812,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,126918546,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,126748506,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,126555078,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,126146099,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,125502290,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,JPN,Japan,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,124946789,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,59211183,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,59555456,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,59819402,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,60026844,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,60191243,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,60311616,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,60320708,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,60229599,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,60115220,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,60002254,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,59877216,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,59729077,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,59438845,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,59133173,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ITA,Italy,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,58940424,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,4485070,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,4533395,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,4554763,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,4574888,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,4593697,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,4614669,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,4645440,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,4687787,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,4739597,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,4792490,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,4857015,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,4921496,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,4977443,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,5011460,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,IRL,Ireland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,5100229,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,16445590,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,16530387,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,16615390,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,16693074,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,16754963,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,16804430,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,16865008,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,16939925,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,17030314,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,17131295,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,17231622,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,17344876,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,17441500,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,17533048,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NLD,Netherlands,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,17703092,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,4768215,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,4828716,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,4889253,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,4953089,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,5018574,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,5080171,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,5137427,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,5189898,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,5236152,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,5276965,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,5311916,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,5347893,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,5379472,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,5408320,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NOR,Norway,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,5457129,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,4259800,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,4302600,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,4350700,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,4384000,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,4408100,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,4442100,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,4516500,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,4609400,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,4714100,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,4813600,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,4900600,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,4979200,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,5090200,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,5111400,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,NZL,New Zealand,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,5124100,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,304093966,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,306771529,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,309327143,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,311583481,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,313877662,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,316059947,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,318386329,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,320738994,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,323071755,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,325122128,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,326838199,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,328329953,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,331511512,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,332031554,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,USA,United States,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,333287557,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,7647676,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,7743832,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,7824910,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,7912396,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,7996861,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,8089346,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,8188646,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,8282398,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,8373334,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,8451834,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,8514327,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,8575280,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,8638169,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,8704542,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHE,Switzerland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,8775757,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,8321541,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,8341483,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,8361069,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,8388534,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,8426311,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,8477230,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,8543932,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,8629519,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,8739806,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,8795073,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,8837707,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,8877637,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,8916845,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,8951520,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUT,Austria,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,9052856,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,16697754,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,16881078,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,17063927,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,17254159,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,17443491,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,17611902,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,17787617,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,17971423,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,18167147,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,18419192,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,18751405,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,19107216,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,19458310,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,19678363,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CHL,Chile,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,19828563,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,2177324,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,2141668,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,2097553,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,2059710,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,2034324,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,2012647,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,1993785,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,1977523,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,1959535,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,1942247,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,1927170,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,1913826,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,1900448,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,1884488,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LVA,Latvia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,1879374,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,10558176.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,10568246.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,10573100,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,10574535.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,10531419.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,10473990.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,10419606.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,10381837.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,10356516,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,10340124,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,10334633,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,10354445.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,10384846,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,10407707,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,PRT,Portugal,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,10444241.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,2022629,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,2042335,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,2049261,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,2052496,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,2056262,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,2059114,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,2061623,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,2063077,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,2064241,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,2066161,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,2070050,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,2089310,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,2100126,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,2107007,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVN,Slovenia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,2108732,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,7331353,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,7485565,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,7623561,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,7765832,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,7910525,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,8059456,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,8215668,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,8380149,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,8546009,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,8713268,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,8882764,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,9054026,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,9215113,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,9371400,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISR,Israel,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,9528600,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,49054708,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,49307835,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,49554112,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,49936638,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,50199853,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,50428893,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,50746659,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,51014947,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,51217803,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,51361911,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,51585058,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,51764822,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,51836239,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,51744876,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,KOR,Korea,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,51628117,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,33247118,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,33628895,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,34004889,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,34339328,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,34714222,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,35082954,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,35437435,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,35702908,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,36109487,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,36545236,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,37065084,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,37601230,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,38007166,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,38226498,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CAN,Canada,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,38929902,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,488647,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,497783,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,506953,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,518351,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,530952,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,543358,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,556322,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,569605,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,583459,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,596337,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,607950,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,620003,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,630413,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,640064,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,LUX,Luxembourg,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,653108,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,71051689,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,72039215,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,73142162,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,74223642,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,75175836,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,76147634,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,77181894,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,78218488,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,79277971,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,80312708,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,81407211,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,82579448,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,83384688,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,84147326,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,TUR,Türkiye,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,84979919,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,1337090,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,1334515,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,1331475,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,1327439,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,1322696,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,1317997,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,1314545,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,1314608,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,1315790,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,1317384,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,1321977,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,1326855,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,1329479,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,1330932,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,EST,Estonia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,1348840,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,82110097,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,81902308,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,81776936,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,80274981,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,80425826,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,80645605,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,80982495,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,81686608,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,82348669,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,82657000,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,82905788,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,83092956,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,83160877,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,83196076,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DEU,Germany,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,83797987,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,21249199,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,21691653,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,22031750,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,22340024,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,22733465,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,23128129,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,23475686,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,23815995,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,24190907,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,24594202,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,24966643,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,25340217,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,25655289,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,25688079,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,AUS,Australia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,25978935,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,45983169,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,46367550,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,46562483,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,46736257,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,46766403,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,46593236,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,46455123,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,46410149,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,46449874,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,46532869,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,46728814,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,47105358,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,47355685,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,47331302,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ESP,Spain,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,47615034,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,5406972,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,5418374,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,5431024,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,5398384,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,5407579,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,5413392.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,5418649,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,5423800.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,5430797.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,5439231.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,5446770.5,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,5454147,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,5458827,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,5441991,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SVK,Slovak Republic,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,5431752,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,9219639,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,9298512,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,9378131,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,9449216,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,9519379,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,9600374,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,9696105,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,9799183,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,9923086,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,10057695,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,10175215,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,10278888,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,10353444,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,10415812,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,SWE,Sweden,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,10486941,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,38115909,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,38153389,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,38516689,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,38525670,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,38533789,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,38502396,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,38483957,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,38454576,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,38426809,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,38422346,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,38413139,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,38386476,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,38354173,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,38162224,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,POL,Poland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,37827355,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,10038186,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,10022647,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,10000020,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,9958824,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,9920364,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,9893083,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,9866466,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,9843025,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,9814026,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,9787969,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,9775566,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,9771142,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,9750153,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,9709893,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,HUN,Hungary,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,9643048,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,10709108,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,10796498,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,10895591,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,10993609,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,11067748,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,11125033,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,11179778,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,11238474,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,11295003,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,11349081,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,11403740,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,11462023,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,11506938,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,11552615,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,BEL,Belgium,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,11640788,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,10429692,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,10491492,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,10517247,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,10496672,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,10509286,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,10510719,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,10524783,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,10542942,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,10565284,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,10589526,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,10626430,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,10669324,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,10700155,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,10500850,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CZE,Czechia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,10759525,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,43134017,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,43608630,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,44086292,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,44553416,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,45001571,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,45434942,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,45866010,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,46313898,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,46830116,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,47419200,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,48258494,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,49395678,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,50407647,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,51117378,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,COL,Colombia,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,51682692,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,61823772,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,62260486,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,62759456,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,63285145,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,63705030,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,64105654,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,64596752,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,65110034,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,65648054,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,66040229,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,66435550,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,66796807,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,67081234,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,67026292,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GBR,United Kingdom,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,67299048,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,317404,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,318501,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,318044,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,319011,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,320723,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,323763,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,327379,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,330818,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,335435,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,343399,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,352722,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,360558,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,366462,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,372523,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,ISL,Iceland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,382005,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,4404090,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,4469337,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,4533894,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,4592149,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,4652458.93050581,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,4713168.14141015,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,4773129.93384446,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,4832233.8134651,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,4890379.45221625,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,4947489.59332252,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,5003401.95767213,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,5058007.14721902,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,5111238.21646865,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,5163037.97091561,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,CRI,Costa Rica,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,5213373.67080593,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,64133174,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,64458715,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,64773169,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,65087317,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,65402998,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,65735961,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,66276671,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,66512558,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,66688563,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,66883314,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,67125071,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,67349922,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,67538482,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,67738863,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FRA,France,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,67942590,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,5313398,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,5338867,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,5363341,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,5388272,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,5413967,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,5438975,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,5461507,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,5479528,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,5495297,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,5508209,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,5515525,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,5521605,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,5529545,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,5541020,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,FIN,Finland,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,5556108,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,5489022,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,5519441,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,5543819,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,5566856,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,5587085,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,5608784,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,5639719,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,5678348,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,5724456,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,5760694,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,5789957,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,5814461,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,5825337,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,5850189,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,DNK,Denmark,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,5910577,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2008,,11077839,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2009,,11107017,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2010,,11121344,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2011,,11104900,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2012,,11045010,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2013,,10965209,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2014,,10892415,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2015,,10820883,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2016,,10775966,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2017,,10754679,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2018,,10732877,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2019,,10721584,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2020,,10698597,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2021,,10569211,,A,Normal value,0,Units,0,Zero
+DATAFLOW,OECD.ELS.SAE:DSD_POPULATION@DF_POP_HIST(1.0),Historical population data,I,GRC,Greece,POP,Population,PS,Persons,_T,Total,_T,Total,H,Historical,2022,,10361270,,A,Normal value,0,Units,0,Zero
